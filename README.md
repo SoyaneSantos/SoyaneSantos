@@ -11,7 +11,7 @@
 - 🔭 Atualmente trabalhando em projetos de **análise de dados, EDA e dashboards**
 - 🌱 Aprofundando conhecimentos em **SQL, Python, IA e Power BI**
 - 💡 Interesse em **análise de vendas, previsão de demanda e recomendação**
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/soyane-santos/) · [Email](santossoyane@gmail.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/soyane-santos/) · [Email](santossoyane@gmail.com) · [Telefone](2198005-1723)
 - ⚡ Fun fact: Entrei no mundo das artes marciais depois dos 30 e descobri que idade não é desculpa para começar algo novo.🥋
 
 
