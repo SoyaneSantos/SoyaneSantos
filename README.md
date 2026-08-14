@@ -31,6 +31,13 @@
 ---
 Projetos em destaque
 ADCC Insights — 24 Anos de Grappling em Números — 24 anos de ADCC em dados: finalizações, evolução e os grandes campeões do submission grappling.
-Inteligência de Mercado Automotivo  Market Share e Evolução da Frota— - Mapeamento de concorrência, precificação e migração de público-alvo. O que paço para novas marcas (ex: BYD/GWM) e como a transição do segmento Hatch/Sedan para SUV remodelou o mercado brasileiro.
+
+
+Inteligência de Mercado Automotivo  Market Share e Evolução da Frota - Mapeamento de concorrência, precificação e migração de público-alvo. O que paço para novas marcas (ex: BYD/GWM) e como a transição do segmento Hatch/Sedan para SUV remodelou o mercado brasileiro.
 
 <p align="center"><i>Aberto a oportunidades e colaborações — vamos conversar!</i></p>
+
+
+
+
+
