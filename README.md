@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Soyane dos Santos 👋</h1>
+<h1 align="center">Olá, eu sou  Soyane dos Santos 👋</h1>
 <h3 align="center">Analista de Dados | Transformando dados em decisões</h3>
 
   <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visualizações%20de%20perfil&color=0e75b6&style=flat" alt="Visualizações de perfil" />
